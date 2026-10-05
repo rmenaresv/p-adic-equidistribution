@@ -8,4 +8,4 @@ Here is the case of [convergence towards the Gauss point](Product-of-modular-cur
 
 ## The case of a Hilbert modular surface
 
-Here are some notes by Eyal on the basic theory of such surfaces.
+Here are some [notes by Eyal](https://www.dropbox.com/scl/fi/vjn8shey0klkewh7ztunj/Stratification_modular_surfaces.pdf?rlkey=0fhz7k7pk7xjmgxyafw4gnr45&st=yr2v7mvx&dl=0) on the basic theory of such surfaces.
