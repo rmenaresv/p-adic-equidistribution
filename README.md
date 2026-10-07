@@ -4,7 +4,7 @@ With Herrero and Goren we have a [dropbox](https://www.dropbox.com/home/Goren-Me
 
 This is a toy example: a product of two modular curves as a degenerate Hilbert modular surface.
 
-Here is the case of [convergence towards the Gauss point](Product-of-modular-curves/GaussDim2.pdf).
+Here is the case of [convergence towards the Gauss point](product-2-modular-curves/GaussAffinePlane.pdf).
 
 ## The case of a Hilbert modular surface
 
